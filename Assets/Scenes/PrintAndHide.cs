@@ -12,7 +12,7 @@ public class PrintAndHide : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        testNumber = Random.Range(200, 250);
+        testNumber = Random.Range(200, 251);
         rend = GetComponent<Renderer>();
     }
 
